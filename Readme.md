@@ -33,4 +33,4 @@ Ensure that you have the following installed:
 1. **Clone the Repository**
    ```bash
    git clone <[your-repository-url](https://github.com/Keshav9392/Rule-Engine-with-AST)>
-   cd <repository-directory>
+   cd <[repository-directory](https://github.com/Keshav9392/Rule-Engine-with-AST)>
