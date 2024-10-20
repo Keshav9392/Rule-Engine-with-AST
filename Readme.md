@@ -24,7 +24,7 @@ This application implements a simple rule engine using Abstract Syntax Trees (AS
 
 Ensure that you have the following installed:
 
-- Python 3.x
+- Python 3.11
 - SQLite (optional, as SQLite comes built-in with Python)
 - Required Python packages (can be installed via `pip` if needed)
 
@@ -32,5 +32,5 @@ Ensure that you have the following installed:
 
 1. **Clone the Repository**
    ```bash
-   git clone <your-repository-url>
+   git clone <[your-repository-url](https://github.com/Keshav9392/Rule-Engine-with-AST)>
    cd <repository-directory>
