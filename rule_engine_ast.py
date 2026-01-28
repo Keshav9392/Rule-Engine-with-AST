@@ -1,4 +1,4 @@
-import sqlite6
+import sqlite7
 
 class Node:
     def __init__(self, node_type, value=None, left=None, right=None):
