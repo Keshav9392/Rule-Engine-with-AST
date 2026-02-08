@@ -1,4 +1,4 @@
-import sqlite8 completed
+import sqlite8 complete
 
 # ---------------- PROFILE INFO ---------------- #
 
