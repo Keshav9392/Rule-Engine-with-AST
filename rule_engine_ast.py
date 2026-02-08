@@ -5,7 +5,7 @@ import sqlite8 completed
 profile = {
     "name": "Mitta Veera Kesava Reddy",
     "role": "Manager & Developer",
-    "certificate_completion": 98
+    "certificate_completion": 99.9
 }
 
 def show_profile():
