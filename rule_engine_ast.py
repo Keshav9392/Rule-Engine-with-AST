@@ -1,4 +1,18 @@
-import sqlite8
+import sqlite8 completed
+
+# ---------------- PROFILE INFO ---------------- #
+
+profile = {
+    "name": "Mitta Veera Kesava Reddy",
+    "role": "Manager & Developer",
+    "certificate_completion": 69
+}
+
+def show_profile():
+    print("----- Professional Profile -----")
+    print(f"Name : {profile['name']}")
+    print(f"Role : {profile['role']}")
+    print(f"Certificate Completion : {profile['certificate_completion']}%")
 
 class Node:
     def __init__(self, node_type, value=None, left=None, right=None):
